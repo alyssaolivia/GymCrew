@@ -1,9 +1,9 @@
 # GymCrew
 
-##About Gym Crew
+## About Gym Crew
 This is a simple CRUD Site using NET 8.0. Developed using Visual Studio 2022 Community Version
 
-##Models
+## Models
 GymClass
 GymFacility
 MembershipTier
